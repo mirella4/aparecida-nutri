@@ -1,0 +1,48 @@
+body{
+  font-family:"Helvitica Neue","Helvetica", Helvetica, Arial, sanss-serif;
+  font-size: 14px;}
+header{
+  background-color:#333
+    color:#FFF
+    margin-botton:1em;}
+
+header h1{
+  font-size:2em;
+  display:inline-blok;
+  vertical-aling:middle;}
+header h2{
+  font-size:2em;
+  display:inline-blok;
+  vertical-aling:middle;}
+header .container:before{
+  display:inline-blok;
+  height:100%
+  vertical-aling:middle;
+}
+.container{
+  width:60%;
+  height:100%
+  margin:0 auto;
+}
+section h2{
+ font-size:3em;
+  display:blok;
+  padding-botton:.5em;
+  border-bottom: 1px solid#ccc;
+  margin-bottom:.5em;}
+  
+table{
+  width:100%;
+  margin-bottom:.5em;
+  table-layout: fixed
+}
+td,th{
+  padding:.7em;
+  margin:0;
+  border: 1px solid#CCC;
+  text-aling:center;
+}  
+th{
+  font-weight:bold;
+  background-color:pink;
+} 
